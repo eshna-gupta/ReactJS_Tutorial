@@ -1,2 +1,0 @@
-This is my first day of learning ReactJS.
-I hope I do good.
