@@ -2,19 +2,22 @@
    margin: 0%; padding: 0%; box-sizing: border-box;
 }
 .heading{
-  color: rgb(226, 23, 90);
-  background-color: rgb(0, 0, 0);
+  color: rgb(121, 98, 106);
+  /*  background-color: rgb(0, 0, 0);   */
   /*align-items: center; */
   text-align: center;
   /*height: 100vh; to cover the whole screen with the bg color , without 100vh height, bg color will only apply till the end of imgs*/
   justify-content: center;
-  margin: 15px 0 ;
+  margin: 15px 0 ;    /*15pixel from top and bottom each and no margin for left right*/
+  
+  font-family: 'Indie Flower', cursive;
   
 }
 
 .img{
-  background-color: brown;
+  /*background-color: brown; */
   align-content: center;
   justify-content: center;
   display: flex;
+  margin-top: 40px;
 }
